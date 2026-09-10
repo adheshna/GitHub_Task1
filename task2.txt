@@ -8,3 +8,6 @@ Git Workflow Steps:
 3. Save changes using git commit.
 4. Upload changes using git push.
 5. Download updates using git pull.
+Commit 3:
+The Git workflow practice has been completed successfully.
+Three meaningful commits will be maintained in the repository.
