@@ -2,3 +2,9 @@ Git Workflow Practice - Task 2
 
 This file is created as part of my Git workflow practice.
 I am practicing git add, git commit, git push, and git pull.
+Git Workflow Steps:
+1. Clone the repository.
+2. Add changes using git add.
+3. Save changes using git commit.
+4. Upload changes using git push.
+5. Download updates using git pull.
